@@ -1,18 +1,19 @@
 {
   "name": "SIGATH | VPTI/GGOC",
   "short_name": "SIGATH",
-  "start_url": "./",
+  "start_url": "https://sigath.github.io/vpti-ggoc/",
+  "scope": "https://sigath.github.io/vpti-ggoc/",
   "display": "standalone",
   "background_color": "#1a1a2e",
   "theme_color": "#004BFF",
   "icons": [
     {
-      "src": "logo.png",
+      "src": "https://sigath.github.io/vpti-ggoc/logo.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "logo.png",
+      "src": "https://sigath.github.io/vpti-ggoc/logo.png",
       "sizes": "512x512",
       "type": "image/png"
     }
